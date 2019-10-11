@@ -1,3 +1,4 @@
 # Resto
+wordpress based website
 
-https://antihero.github.io/Resto/
+[watch here](https://antihero.github.io/Resto/)
